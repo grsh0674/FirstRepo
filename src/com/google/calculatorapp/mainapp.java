@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class mainapp {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {// Main Menthod
 
 		int operator,n1 = 0,n2 = 0,n3=0,n4=0,n5=0;
 		System.out.println("1-Add \n 2- Subtract \n 3- Multiplication \n 4- Divide \n 5- Exit");
